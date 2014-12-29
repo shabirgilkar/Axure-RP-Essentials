@@ -37,4 +37,10 @@ This Library file contains the following assets to get you started for creating 
 <li>and adding more in days to come ...</li>
 </ul>
 
-<b>How to use this file?</b>
+<b>How to use this library file?</b>
+
+In order to your this library file you would require to install Axure RP tool on your PC or Mac. 30 day trial is also available from the above mentioned download link.
+
+Once you have installed and the software tool is launched to use, you will find a widgets library on your left side panels.
+
+
