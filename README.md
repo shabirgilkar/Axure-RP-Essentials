@@ -1,7 +1,7 @@
 Axure-RP-Essentials
 ===================
 
-Axure RP Essentials is a library of assets e.g. Tab bar control, Popup window, Date Picker etc for Axure RP wireframing tool for UX professional community.
+Axure RP Essentials is a library of assets for wireframing or prototyping Websites and Apps e.g. Tab bar control, Popup window, Date Picker etc for Axure RP wireframing tool for UX professional community.
 
 <b>What is Axure RP?</b> 
 
