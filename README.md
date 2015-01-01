@@ -34,6 +34,8 @@ This Library file contains the following assets to get you started for creating 
 <li>Notifications</li>
 <li>Drawer Menu Control</li>
 <li>Date Picker Control</li>
+<li>Accordion Control</li>
+<li>Multiselect dropwon Control</li>
 <li>and adding more in days to come ...</li>
 </ul>
 
